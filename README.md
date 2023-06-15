@@ -1,4 +1,4 @@
-### Hi there 👋, I am Ari Prasojo!
+### I am Ari Prasojo
 
 [![Twitter](https://img.shields.io/twitter/follow/aripsprasojo.svg?style=social&label=@aripsprasojo)](https://twitter.com/aripsprasojo)
 
