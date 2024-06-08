@@ -1,4 +1,4 @@
-### I am Ari Prasojo (he/him) \orcidlink{0000-0002-4862-5523}
+### I am Ari Prasojo (he/him)
 
 [![Twitter](https://img.shields.io/twitter/follow/aripsprasojo.svg?style=social&label=@aripsprasojo)](https://twitter.com/aripsprasojo)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ari-purwanto26/?originalSubdomain=id)
