@@ -1,6 +1,7 @@
-### I am Ari Prasojo (he/him)
+### I am Ari Prasojo (he/him) \orcidlink{0000-0002-4862-5523}
 
 [![Twitter](https://img.shields.io/twitter/follow/aripsprasojo.svg?style=social&label=@aripsprasojo)](https://twitter.com/aripsprasojo)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ari-purwanto26/?originalSubdomain=id)
 
 - 🔭 I’m currently working as a assistant researcher on themes related (but not limited) to __statistics__, __demography__, __social data science__.
 - 🌱 I never get tired of learning!. Be eager to learn modern data science approach especially statistical learning, machine learning, text analysis, and computational method to assess population and social issues.
