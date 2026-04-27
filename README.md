@@ -1,12 +1,12 @@
 # Hi, I'm Ari 👋  
 
 I am a Junior Researcher at the **Research Center for Population, National Research and Innovation Agency (Badan Riset dan Innovation Agency – BRIN)**.  
-My research focuses on *quantitative and computational social demography*, particularly using **statistical modeling, machine learning, and computational methods** to study issues of **resilience and human development**.  
+My research signature is *quantitative and computational social demography for vulnerability and resilience*.  
 
 ---
 
 ## 👯 Collaboration  
-I’m open to collaborating on research at the intersection of **demography, computation, resilience, and human development**.  
+I’m open to collaborating on research at the intersection of **demography, quantitative method, vulnerability or resilience**.  
 
 ---
 
